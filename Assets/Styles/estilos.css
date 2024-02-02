@@ -5,3 +5,13 @@
     background-attachment: fixed;
 
 }
+
+.letra{
+    color:red;
+    font-size: 500px;
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none; 
+ }
